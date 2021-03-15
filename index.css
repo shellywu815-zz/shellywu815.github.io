@@ -1,7 +1,8 @@
 
-body {
-    background-color: skyblue;
+.headings, .photo, .link{
+    text-align: center;
 }
+.description {margin: auto; width: 50%; text-align: center;}
 
 /* .headings {
     position: absolute;
